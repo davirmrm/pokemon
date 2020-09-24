@@ -19,22 +19,22 @@
   --warning-bgh: #a06000;
   --warning-color: #fff;
 
-  --scrollbar-track: #f1f1f1;
+  --scrollbar-track: #bababa;
   --scrollbar-thumb: #940404;
   --scrollbar-thumbh: #640101;
 
   --background-page: #f1f1f1;
   --color-page: #333;
   --background-container: #1e1e1e;
-  --color-container: #fff;
+  --color-container: #cecece;
 
   --background-header: #bd0201;
   --background-header-h: #800000;
-  --color-header: #fff;
+  --color-header: #cecece;
 
   --background-sidebar: #1e1e1e;
   --background-sidebar-h: #505050;
-  --color-sidebar: #fff;
+  --color-sidebar: #cecece;
 
   --background-footer: #415d20;
   --background-footer-h: #2b3f15;

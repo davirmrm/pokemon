@@ -7,6 +7,7 @@ import App from './app.json'
 export default () => {
   const dispatch = useDispatch()
   const sidebar = useSelector(state => state.appState)
+
   return (
     <header id='box-header'>
       <button

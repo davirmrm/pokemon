@@ -88,15 +88,17 @@ small {
 }
 
 ::-webkit-scrollbar-track {
-  background-color: var(--scrollbar-track);
+  background-color: #333;
+  /* var(--scrollbar-track); */
   border-radius: 2px;
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: var(--scrollbar-thumb);
+  background: linear-gradient(180deg, #940404 50%, #fff 50%);
+  /* var(--scrollbar-thumb); */
   border-radius: 10px;
 }
 ::-webkit-scrollbar-thumb:hover {
   cursor: pointer;
-  background-color: var(--scrollbar-thumbh);
+  background: linear-gradient(180deg, #640101 50%, #fff 50%);
 }
