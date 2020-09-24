@@ -1,0 +1,44 @@
+.box-pokemons .conteudo {
+  display: flex;
+}
+.box-pokemons .menu {
+  width: 200px;
+}
+
+.card-pokemon {
+  background-color: var(--background-container);
+  border: 1px solid var(--color-page);
+  color: var(--color-container);
+  box-shadow: 0px 0px 20px var(--background-container);
+  border-radius: 10px;
+  padding: 15px;
+  max-width: 340px;
+  width: 100%;
+  margin: 0px auto;
+}
+
+.card-pokemon h2 {
+  display: flex;
+  align-self: center;
+  text-align: center;
+  justify-content: space-evenly;
+}
+.card-pokemon h2 > svg {
+  color: #fff;
+}
+.card-pokemon .card-img {
+  text-align: center;
+}
+.card-pokemon .card-img span {
+  display: block;
+  margin: 40px 0;
+  font-size: 16px;
+}
+
+.card-pokemon .card-img img:first-child {
+  width: 100%;
+  padding: 0 15%;
+}
+.card-pokemon .card-img img {
+  width: 25%;
+}

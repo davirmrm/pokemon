@@ -1,0 +1,12 @@
+{
+  "titulo": "Pokemon",
+  "menu": [
+    { "id": 1, "label": "Home", "go": "/home" },
+    { "id": 2, "label": "Pokemon", "go": "/pokemon" },
+    { "id": 3, "label": "item 1", "go": "/components" }
+  ],
+  "usuario": [
+    { "id": 1, "label": "Perfis", "go": "/perfis" },
+    { "id": 2, "label": "Colaboradores", "go": "/colaboradores" }
+  ]
+}

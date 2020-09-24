@@ -1,0 +1,55 @@
+:root {
+  --primary-bg: #25a0c2;
+  --primary-bgh: #1a7b96;
+  --primary-color: #fff;
+
+  --secondary-bg: #6c757d;
+  --secondary-bgh: #444444;
+  --secondary-color: #fff;
+
+  --success-bg: #008327;
+  --success-bgh: #00561a;
+  --success-color: #fff;
+
+  --error-bg: #940404;
+  --error-bgh: #640101;
+  --error-color: #f1f1f1;
+
+  --warning-bg: #c47500;
+  --warning-bgh: #a06000;
+  --warning-color: #fff;
+
+  --scrollbar-track: #f1f1f1;
+  --scrollbar-thumb: #940404;
+  --scrollbar-thumbh: #640101;
+
+  --background-page: #f1f1f1;
+  --color-page: #333;
+  --background-container: #1e1e1e;
+  --color-container: #fff;
+
+  --background-header: #bd0201;
+  --background-header-h: #800000;
+  --color-header: #fff;
+
+  --background-sidebar: #1e1e1e;
+  --background-sidebar-h: #505050;
+  --color-sidebar: #fff;
+
+  --background-footer: #415d20;
+  --background-footer-h: #2b3f15;
+  --color-footer: #fff;
+
+  --input-bg: transparent;
+  --input-bgh: #666;
+  --input-color: #fff;
+
+  --list-bg: transparent;
+  --list-bgh: #2f3031;
+  --list-color: #fff;
+
+  --modal-bg: #222;
+  --modal-bgo: #000000c9;
+  --modal-bgh: #444;
+  --modal-color: #fff;
+}
